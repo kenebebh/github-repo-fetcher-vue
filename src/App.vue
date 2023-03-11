@@ -1,5 +1,11 @@
-<script setup></script>
+<script setup>
+import { RouterView } from "vue-router";
+import Navigation from "./components/Navigation.vue";
+</script>
 
-<template></template>
+<template>
+  <Navigation />
+  <RouterView />
+</template>
 
 <style scoped></style>
