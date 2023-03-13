@@ -1,7 +1,9 @@
-<script setup></script>
+<script setup>
+import AllRepos from "../components/AllRepos.vue";
+</script>
 
 <template>
-  <h1>Repos view</h1>
+  <AllRepos />
 </template>
 
 <style scoped></style>
