@@ -8,4 +8,10 @@ import Navigation from "./components/Navigation.vue";
   <RouterView />
 </template>
 
-<style scoped></style>
+<style>
+html,
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: rosybrown;
+}
+</style>
