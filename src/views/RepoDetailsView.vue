@@ -1,7 +1,9 @@
-<script setup></script>
+<script setup>
+import RepoDetails from "../components/RepoDetails.vue";
+</script>
 
 <template>
-  <h1>Repo Details view</h1>
+  <RepoDetails />
 </template>
 
 <style scoped></style>

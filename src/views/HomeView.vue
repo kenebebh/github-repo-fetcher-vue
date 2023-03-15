@@ -1,7 +1,10 @@
 <script setup></script>
 
 <template>
-  <h1>Home view</h1>
+  <h2>Welcome, I am</h2>
+  <h1>Banigo Kenebebh</h1>
 </template>
 
-<style scoped></style>
+<style scoped>
+
+</style>
