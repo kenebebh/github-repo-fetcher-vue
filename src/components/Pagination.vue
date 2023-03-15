@@ -42,9 +42,9 @@ export default {
 }
 .button {
   padding: 0.4rem 1rem;
-  border: 1px solid red;
+  border: 1px solid brown;
   border-radius: 5px;
-  color: brown;
+  color: wheat;
   font-weight: bold;
   cursor: pointer;
   margin: 1px;

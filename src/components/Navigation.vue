@@ -19,7 +19,7 @@ nav {
   padding: 0.8rem 0 1rem;
 }
 .active {
-  color: royalblue;
+  color: white;
   text-decoration: double;
   text-decoration-color: red;
 }
